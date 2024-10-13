@@ -7,6 +7,5 @@ int main()
     cout << "Hello DevOps!" << endl;
     cout << "Sample Code for testing." << endl;
     cout << "Changes in file." << endl;
-    cout << "Added Branch." << endl;
     return 0;
 }
